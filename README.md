@@ -20,4 +20,4 @@ You can click the Preview link to take a look at your changes.
 #### Join me on this journey, see my work below. 
 
 ## School Project Links
-> Unit 1 - Browser Game - [Avoid the Veggies](Link to Project) - _This is a game inspired by the classic minesweeper with a little touch of my dislike with people who love putting random veggies on pizza... It is pizza..._
+> Unit 1 - Browser Game - [Avoid the Veggies](https://cdn-bsct.github.io/avoid-the-veggies/) - _This is a game inspired by the classic minesweeper with a little touch of my dislike with people who love putting random veggies on pizza... It is pizza..._
